@@ -8,3 +8,4 @@ The GA-based DCP Parameters Selection is implemented using DEAP, a Python-based 
 
 ## References
   * [V. J. D. Almero et al., "Genetic Algorithm-based Dark Channel Prior Parameters Selection for Single Underwater Image Dehazing," 2020 IEEE REGION 10 CONFERENCE (TENCON), 2020, pp. 1153-1158, doi: 10.1109/TENCON50793.2020.9293849.](https://doi.org/10.1109/TENCON50793.2020.9293849) 
+  * [Journal Article in press]
